@@ -1,7 +1,7 @@
 /*
 Cleaning Data in SQL Queries
 */
---[Dataset] (https://www.kaggle.com/tmthyjames/nashville-housing-data)
+-- Dataset link is in readme file.
 
 Select *
 From PortfolioProject.dbo.NashvilleHousing
