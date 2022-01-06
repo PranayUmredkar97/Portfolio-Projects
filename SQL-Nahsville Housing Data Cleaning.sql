@@ -1,7 +1,7 @@
 /*
 Cleaning Data in SQL Queries
 */
-
+--The dataset is downloaded from kaggle.
 
 Select *
 From PortfolioProject.dbo.NashvilleHousing
